@@ -1,11 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  Terminal, 
   Download, 
   Mail, 
   Phone, 
-  MapPin, 
-  Cpu,
   ShieldCheck,
   Target,
   GraduationCap,
